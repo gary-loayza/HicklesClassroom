@@ -1,5 +1,6 @@
 # HicklesClassroom
    To play this game you need two things
+    
     1. Download and install Git
         - Git is what I use to share the code.
         - For more information on installing git, 
@@ -17,21 +18,25 @@ Then, follow the instructions below for your operating system.
 
 
 1. a) Downloading Git for Windows:
-        Just go to http://git-scm.com/download/win and the download will start automatically.
+      - Just go to http://git-scm.com/download/win and the download will start automatically.
         Follow the instructions to complete the installation.
 
 1. b) Downloading Git for Mac:
-      You can go to https://git-scm.com/download/mac to download.
-      Follow the instructions to complete the installation.
+      - You can go to https://git-scm.com/download/mac to download.
+        Follow the instructions to complete the installation.
       
 1. c) Downloading Git for Linux:
-      Depending on which distrobution of linux you are using,
       
-      Debian/Ubuntu linux users can run:
-        $ sudo apt-get install git-all
-        
-      Fedora users can run:
-        $ sudo yum install git-all
+      - Depending on which distrobution of linux you are using,
+      
+         - Debian/Ubuntu linux users can run:
+
+               $ sudo apt-get install git-all
+
+         - Fedora users can run:
+
+               $ sudo yum install git-all
+
 
 Once Git is installed, check your installation by typing
 
@@ -111,13 +116,10 @@ for windows, or
   
     $ ls
 
-for mac. You will see everything from the beginning
+for mac. You will see something like this:
 
- Start.py
- 
-to the end of our progress
-
- Final.py
+      $ ls
+         Final.py  guessTheNumber.py  Second.py  Start.py
  
 You can have fun making changes to guessTheNumber.py so that it looks like Second.py or even Final.py
 and you can play your version with 
@@ -133,3 +135,5 @@ If you ever want to start over, simply type:
     $ git reset --hard HEAD
 
 and all your changes will go back to how they were when you first installed the game.
+
+# ENJOY CODING!
