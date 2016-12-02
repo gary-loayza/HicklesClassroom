@@ -137,5 +137,22 @@ and all your changes will go back to how they were when you first installed the 
 
 # ENJOY CODING!
 
+ _________________________________________ 
+/ This life is a test. It is only a test. \
+| Had this been an actual life, you would |
+| have received further instructions as   |
+\ to what to do and where to go.          /
+ ----------------------------------------- 
+    \
+     \
+      \     
+                    ##        .            
+              ## ## ##       ==            
+           ## ## ## ##      ===            
+       /""""""""""""""""___/ ===        
+  ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~   
+       \______ o          __/            
+        \    \        __/             
+          \____\______/   
 
 
