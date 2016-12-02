@@ -36,11 +36,11 @@ c) Downloading Git for Linux:
       
       - Debian/Ubuntu linux users can run:
 
-                $ sudo apt-get install git-all
+            $ sudo apt-get install git-all
 
       - Fedora users can run:
 
-                $ sudo yum install git-all
+            $ sudo yum install git-all
 
 
 Once Git is installed, check your installation by typing
@@ -91,8 +91,8 @@ a) Downloading Python for Windows:
         This should work for most Windows systems. 
         Ask your parents or teacher if you are not sure.
   
-    - Open the .exe file when the download is complete and
-       follow the instructions to complete the installation.
+   - Open the .exe file when the download is complete and
+      follow the instructions to complete the installation.
       
 b) Downloading Python 3.5.2 for Mac:
 
@@ -127,10 +127,10 @@ for windows, or
   
     $ ls
 
-for mac. You will see something like this:
+for linux or mac. You will see something like this:
 
       $ ls
-         Final.py  guessTheNumber.py  Second.py  Start.py
+         final.py  guessTheNumber.py  README.md  second.py  start.py
  
 You can have fun making changes to guessTheNumber.py so that it looks like Second.py or even Final.py
 and you can play your version with 
