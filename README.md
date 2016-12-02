@@ -11,6 +11,8 @@
         - For more information on installing python,
           visit: https://wiki.python.org/moin/BeginnersGuide/Download
           or ask your parents or teacher for help.
+        - To learn more Python, read:
+          http://openbookproject.net/thinkcs/python/english3e/
 
 
 First, ask your parents which operating system your computer has installed.
