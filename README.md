@@ -18,26 +18,29 @@
 First, ask your parents which operating system your computer has installed.
 Then, follow the instructions below for your operating system.
 
+# 1.
 
-1. a) Downloading Git for Windows:
-      - Just go to http://git-scm.com/download/win and the download will start automatically.
-        Follow the instructions to complete the installation.
+a) Downloading Git for Windows:
+   
+   - Just go to http://git-scm.com/download/win and the download will start automatically.
+     Follow the instructions to complete the installation.
 
-1. b) Downloading Git for Mac:
-      - You can go to https://git-scm.com/download/mac to download.
-        Follow the instructions to complete the installation.
+b) Downloading Git for Mac:
       
-1. c) Downloading Git for Linux:
+   - You can go to https://git-scm.com/download/mac to download.
+     Follow the instructions to complete the installation.
       
-      - Depending on which distrobution of linux you are using,
+c) Downloading Git for Linux:
       
-         - Debian/Ubuntu linux users can run:
+  - Depending on which distrobution of linux you are using,
+      
+      - Debian/Ubuntu linux users can run:
 
-                  $ sudo apt-get install git-all
+                $ sudo apt-get install git-all
 
-         - Fedora users can run:
+       - Fedora users can run:
 
-                  $ sudo yum install git-all
+                $ sudo yum install git-all
 
 
 Once Git is installed, check your installation by typing
@@ -64,7 +67,8 @@ in the terminal/command line. You should see something like this:
            rm         Remove files from the working tree and from the index
 
           . . .
- 
+
+# 2.
  
 Finally, install Python 3.5.2.
 First of all check that you don't already have Python 3 installed by entering 
@@ -78,24 +82,30 @@ in a command line window. It should look something like this:
 
 If you see this, you are all ready TO BEGIN!
 If not, follow the instructions below.
+ 
 
-2. a) Downloading Python for Windows:
-      - Go to https://www.python.org/downloads/release/python-352/
+a) Downloading Python for Windows:
+
+   - Go to https://www.python.org/downloads/release/python-352/
         and find "Windows x86-64 executable installer" and click the link.
         This should work for most Windows systems. 
         Ask your parents or teacher if you are not sure.
-      - Open the .exe file when the download is complete and
-        follow the instructions to complete the installation.
+  
+    - Open the .exe file when the download is complete and
+       follow the instructions to complete the installation.
       
-2. b) Downloading Python 3.5.2 for Mac:
-      - Go to https://www.python.org/downloads/release/python-352/
-        and find "Mac OS X 64-bit/32-bit installer" and click the link.
-        This should work for most Mac systems.
-        Ask your parents or teacher if you are not sure.
-      - Open the .pkg file when the download is complete and follow the instructions to complete the installation.
+b) Downloading Python 3.5.2 for Mac:
+
+- Go to https://www.python.org/downloads/release/python-352/
+   and find "Mac OS X 64-bit/32-bit installer" and click the link.
+   This should work for most Mac systems.
+   Ask your parents or teacher if you are not sure.
+   
+- Open the .pkg file when the download is complete and follow the instructions to complete the installation.
         
-2. c) Linux users should have Python 3 already installed.
-      Ask your parents or teacher for help if you need it.
+c) Linux users should have Python 3 already installed.
+   
+Ask your parents or teacher for help if you need it.
       
 
 # TO BEGIN!
