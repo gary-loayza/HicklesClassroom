@@ -31,11 +31,11 @@ Then, follow the instructions below for your operating system.
       
          - Debian/Ubuntu linux users can run:
 
-               $ sudo apt-get install git-all
+                  $ sudo apt-get install git-all
 
          - Fedora users can run:
 
-               $ sudo yum install git-all
+                  $ sudo yum install git-all
 
 
 Once Git is installed, check your installation by typing
@@ -90,8 +90,7 @@ If not, follow the instructions below.
         and find "Mac OS X 64-bit/32-bit installer" and click the link.
         This should work for most Mac systems.
         Ask your parents or teacher if you are not sure.
-      - Open the .pkg file when the download is complete and
-        follow the instructions to complete the installation.
+      - Open the .pkg file when the download is complete and follow the instructions to complete the installation.
         
 2. c) Linux users should have Python 3 already installed.
       Ask your parents or teacher for help if you need it.
@@ -137,3 +136,6 @@ If you ever want to start over, simply type:
 and all your changes will go back to how they were when you first installed the game.
 
 # ENJOY CODING!
+
+
+
