@@ -104,7 +104,7 @@ Once you have these two things installed, you can install this game by typing
   
 Then type
   
-    $ cd Classroom/
+    $ cd HicklesClassroom/
    
 in your terminal to go into the folder. To see what's inside, type:
 
