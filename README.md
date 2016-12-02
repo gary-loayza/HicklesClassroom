@@ -38,7 +38,7 @@ c) Downloading Git for Linux:
 
                 $ sudo apt-get install git-all
 
-       - Fedora users can run:
+      - Fedora users can run:
 
                 $ sudo yum install git-all
 
