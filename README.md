@@ -1,18 +1,29 @@
 # HicklesClassroom
-   To play this game you need two things
+To play this game you need two things
     
-    1. Download and install Git
-        - Git is what I use to share the code.
-        - For more information on installing git, 
-          visit: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-          or ask your parents or teacher for help.
-    2. Download and install Python 3.5.2
-        - Python is the programming language I use to write the game.
-        - For more information on installing python,
-          visit: https://wiki.python.org/moin/BeginnersGuide/Download
-          or ask your parents or teacher for help.
-        - To learn more Python, read:
-          http://openbookproject.net/thinkcs/python/english3e/
+1. Download and install Git
+
+   - Git is what I use to share the code.
+   
+   - For more information on installing git, 
+     
+     visit: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+     
+     or ask your parents or teacher for help.
+         
+2. Download and install Python 3.5.2
+   
+   - Python is the programming language I use to write the game.
+   
+   - For more information on installing python,
+     
+     visit: https://wiki.python.org/moin/BeginnersGuide/Download
+     
+     or ask your parents or teacher for help.
+   
+   - To learn more Python, read:
+     
+     http://openbookproject.net/thinkcs/python/english3e/
 
 
 First, ask your parents which operating system your computer has installed.
