@@ -29,8 +29,7 @@ To play this game you need two things
 First, ask your parents which operating system your computer has installed.
 Then, follow the instructions below for your operating system.
 
-# 1.
-
+# 1. Download and Install Git
 a) Downloading Git for Windows:
    
    - Just go to http://git-scm.com/download/win and the download will start automatically.
@@ -79,7 +78,7 @@ in the terminal/command line. You should see something like this:
 
           . . .
 
-# 2.
+# 2. Download and Install Python
  
 Finally, install Python 3.5.2.
 First of all check that you don't already have Python 3 installed by entering 
