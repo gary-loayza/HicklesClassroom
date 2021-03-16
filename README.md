@@ -122,7 +122,7 @@ Ask your parents or teacher for help if you need it.
 
 Once you have these two things installed, you can install this game by typing
  
-    $ git clone https://github.com/loayzag91/HicklesClassroom
+    $ git clone https://github.com/gary-loayza/HicklesClassroom
   
 Then type
   
